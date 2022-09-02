@@ -1,1 +1,1 @@
-# IaC example 
+# Various postgresql related scripts
